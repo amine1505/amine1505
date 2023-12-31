@@ -29,6 +29,5 @@ target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit
 </p>
 
 
-https://miro.medium.com/v2/resize:fit:600/1*N8qmsSNp1KaFneI1-FB3fw.png
 
 ##### FUN FACT :  I am an amateur mechanic, and I love doing repairs on my :car:
