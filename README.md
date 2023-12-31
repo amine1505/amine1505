@@ -34,4 +34,4 @@ target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit
 
 
 
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=amine1505)](https://github.com/FajarKim/github-readme-profile)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=amine1505)](https://github.com/amine1505/github-readme-profile)
