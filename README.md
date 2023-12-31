@@ -31,3 +31,7 @@ target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit
 
 
 ##### FUN FACT :  I am an amateur mechanic, and I love doing repairs on my :car:
+
+
+
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=amine1505)](https://github.com/FajarKim/github-readme-profile)
