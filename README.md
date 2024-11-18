@@ -29,18 +29,18 @@ target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit
 </p>
 
 ### 📊 GitHub Stats:
-![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&hide_title=true&theme=radical)
+![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amine1505&show_icons=true&hide_title=true&theme=radical)
 
-![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=ton_nom_utilisateur&layout=compact&theme=radical)
+![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=amine1505&layout=compact&theme=radical)
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=ton_nom_utilisateur&theme=radical)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=amine1505&theme=radical)
 
 ##### FUN FACT :  I am an amateur mechanic, and I love doing repairs on my :car:
 
 
 
 
-![Visiteurs](https://komarev.com/ghpvc/?username=ton_nom_utilisateur&color=blue)
+![Visiteurs](https://komarev.com/ghpvc/?username=amine1505&color=blue)
 
 
 
